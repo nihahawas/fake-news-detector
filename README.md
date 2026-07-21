@@ -237,6 +237,10 @@ https://www.linkedin.com/in/nihahawas45/
 
 https://nihahawas.github.io/personal-portfolio-website/
 
+**Live Demo**
+
+https://fake-news-detector-tovy4gts8hoiok5nnzk5l7.streamlit.app/
+
 ---
 
 # ⭐ Support
