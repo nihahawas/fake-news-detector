@@ -33,15 +33,14 @@ The application analyzes news headlines or articles and predicts whether they ar
 
 ## 📸 Application Preview
 
-> Add screenshots of your application here.
-
 Example:
 
 ```
-images/home.png
-images/prediction.png
-```
+ <img width="1853" height="866" alt=",,," src="https://github.com/user-attachments/assets/37a092bc-ce5c-46e9-8307-37d5311e1af5" />
+ <img width="1862" height="828" alt="image" src="https://github.com/user-attachments/assets/526ca438-0687-4ea3-bb9e-8ca4e8f3f268" />
 
+
+```
 ---
 
 # 🛠️ Technologies Used
