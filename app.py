@@ -175,4 +175,4 @@ if analyze:
             st.info("No overlapping vocabulary words were found to explain this prediction.")
 
 st.divider()
-st.caption("Built with Python · Pandas · Scikit-learn · Streamlit")
+st.caption("Built with ❤️ by Niha Hawas using Python · Pandas · Scikit-learn · Streamlit")
